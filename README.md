@@ -62,20 +62,9 @@ Task management system with Admin & Employee dashboards.
 - 🧠 Strong DSA & Problem Solving Skills
 
 ---
+## 📊 GitHub Activity
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=summu2801&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summu2801&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=summu2801&theme=tokyonight&hide_border=true" />
-
----
+I actively practice DSA, build MERN projects, and improve my repositories through regular commits.
 
 ## 🎯 2026 Goals
 
