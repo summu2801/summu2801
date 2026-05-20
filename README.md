@@ -1,15 +1,19 @@
 # Hi, I'm Harshit Kumar Vaibhav 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+
+![](https://komarev.com/ghpvc/?username=summu2801&color=blue)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=false&vCenter=true&width=700&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
+
 🚀 Full Stack Developer | Competitive Programmer | AI Enthusiast
 
 🎓 B.Tech CSE @ NIT Jalandhar  
 ⭐ 3★ CodeChef  
-💻 MERN Stack Developer  
+🔥 Passionate About Scalable Backend Systems  
 🧠 Building AI + Real-World Systems  
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
 - 🔭 Building scalable MERN applications
 - 🌱 Learning GenAI & System Design
@@ -19,39 +23,39 @@
 
 ---
 
-# 🚀 Tech Stack
+## 🚀 Tech Stack
 
-## Languages
+### Languages
 C++ | JavaScript | Python | SQL
 
-## Frontend
+### Frontend
 React.js | Tailwind CSS | HTML | CSS
 
-## Backend
+### Backend
 Node.js | Express.js
 
-## Database
+### Database
 MongoDB | MySQL
 
-## Tools
+### Tools
 Git | GitHub | Postman | VS Code
 
 ---
 
-# 📌 Featured Projects
+## 📌 Featured Projects
 
-## 🔹 Smart Hostel Mess Management System
+### 🔹 Smart Hostel Mess Management System
 Role-based MERN platform for digital hostel mess automation.
 
-## 🔹 AI-Powered Code Reviewer
+### 🔹 AI-Powered Code Reviewer
 Gemini-powered application for automated code reviews.
 
-## 🔹 Employee Management System
+### 🔹 Employee Management System
 Task management system with Admin & Employee dashboards.
 
 ---
 
-# 🏆 Competitive Programming
+## 🏆 Competitive Programming
 
 - ⭐ 3★ at CodeChef
 - 💡 Regular LeetCode & Codeforces Practice
@@ -59,20 +63,23 @@ Task management system with Admin & Employee dashboards.
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=summu2801&show_icons=true&theme=tokyonight)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summu2801&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=summu2801&theme=tokyonight)
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
 - Reach 4★ on CodeChef
 - Master Backend Development
 - Learn Advanced System Design
 - Contribute to Open Source
-- Crack Top Placement
+- Crack Top Internship
 
 ---
 
@@ -81,4 +88,4 @@ Task management system with Admin & Employee dashboards.
 - LinkedIn: https://www.linkedin.com/in/harshit-kumar-vaibhav-62191a404/
 - LeetCode: https://leetcode.com/u/hkv28032005/
 - CodeChef: https://www.codechef.com/users/open_sirena_31
-
+- Email: harshitkv.cs.23@nitj.ac.in
