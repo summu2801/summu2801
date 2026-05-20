@@ -1,5 +1,5 @@
 # Hi, I'm Harshit Kumar Vaibhav 👋
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&lines=Full+Stack+Developer;Competitive+Programmer;MERN+Stack+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 🚀 Full Stack Developer | Competitive Programmer | AI Enthusiast
 
 🎓 B.Tech CSE @ NIT Jalandhar  
