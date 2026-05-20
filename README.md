@@ -65,11 +65,15 @@ Task management system with Admin & Employee dashboards.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=summu2801&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=summu2801&show_icons=true&theme=tokyonight&hide_border=true" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=summu2801&layout=compact&theme=tokyonight)
+<br/>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=summu2801&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=summu2801&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=summu2801&theme=tokyonight&hide_border=true" />
 
 ---
 
